@@ -5,3 +5,4 @@ This is a merged feature
 #1
 New email
 This is another merged feature
+This is merged feature 3
