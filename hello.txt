@@ -1,5 +1,6 @@
 hello
 This is c3.
 This is c4.
+This is a merged feature
 #1
 New email
