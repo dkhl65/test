@@ -6,3 +6,4 @@ This is a merged feature
 New email
 This is another merged feature
 This is merged feature 3
+Editing amended
