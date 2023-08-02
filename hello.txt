@@ -4,7 +4,7 @@ This is c4.
 This is a merged feature
 #1
 New email
-  This is another merged feature which I later indented
+This is another merged feature which I edited again
 This is merged feature 3
 Editing amended
 Commit title and message
