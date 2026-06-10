@@ -9,3 +9,4 @@ This is merged feature 3
 Editing amended
 Commit title and message
 New thing
+Avanade
